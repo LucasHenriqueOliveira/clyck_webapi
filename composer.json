@@ -1,5 +1,6 @@
 {
     "require": {
-        "silex/silex": "~2.0"
+        "silex/silex": "~2.0",
+        "pimple/pimple": "~3.0"
     }
 }

@@ -37,7 +37,7 @@
             "symfony/http-foundation": "For using a Symfony Request object",
             "symfony/yaml": "For using the YAML loader"
         },
-        "time": "2016-11-25 12:32:42",
+        "time": "2016-11-25T12:32:42+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -94,7 +94,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2016-10-10 12:19:37",
+        "time": "2016-10-10T12:19:37+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -151,7 +151,7 @@
             "symfony/class-loader": "~2.8|~3.0",
             "symfony/http-kernel": "~2.8|~3.0"
         },
-        "time": "2016-11-16 22:18:16",
+        "time": "2016-11-16T22:18:16+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -205,7 +205,7 @@
         "suggest": {
             "ext-mbstring": "For best performance"
         },
-        "time": "2016-11-14 01:06:16",
+        "time": "2016-11-14T01:06:16+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -267,7 +267,7 @@
         "require-dev": {
             "symfony/expression-language": "~2.8|~3.0"
         },
-        "time": "2016-11-27 04:21:38",
+        "time": "2016-11-27T04:21:38+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -329,7 +329,7 @@
             "symfony/dependency-injection": "",
             "symfony/http-kernel": ""
         },
-        "time": "2016-10-13 06:29:04",
+        "time": "2016-10-13T06:29:04+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -413,7 +413,7 @@
             "symfony/finder": "",
             "symfony/var-dumper": ""
         },
-        "time": "2016-12-13 13:19:46",
+        "time": "2016-12-13T13:19:46+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -464,7 +464,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2015-09-11 15:10:35",
+        "time": "2015-09-11T15:10:35+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -548,7 +548,7 @@
             "symfony/var-dumper": "~2.8|^3.0",
             "twig/twig": "~1.27|~2.0"
         },
-        "time": "2016-11-06 18:09:06",
+        "time": "2016-11-06T18:09:06+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
