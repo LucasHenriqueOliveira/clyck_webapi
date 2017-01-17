@@ -3,6 +3,10 @@
         "silex/silex": "~2.0",
         "pimple/pimple": "~3.0",
         "doctrine/dbal": "^2.5",
-        "dflydev/doctrine-orm-service-provider": "^2.0"
+        "dflydev/doctrine-orm-service-provider": "^2.0",
+        "monolog/monolog": "^1.22",
+        "symfony/security": "^3.2",
+        "symfony/validator": "^3.2",
+        "symfony/filesystem": "^3.2"
     }
 }
